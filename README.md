@@ -18,9 +18,10 @@
      DEMO LINKS: replace the two REPLACE-WITH-... URLs below.
      Tip: search this file for "REPLACE-WITH" to find every spot.
      ============================================================ -->
-<a href="https://aether-rohitjha.streamlit.app/" target="_blank" rel="noopener noreferrer">
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-open%20the%20app-B94E32?style=for-the-badge)](<a href="https://aether-rohitjha.streamlit.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-open%20the%20app-B94E32?style=for-the-badge" alt="Live Demo">
-</a>&nbsp;
+</a>)
+&nbsp;
 [![Docker Hub](https://img.shields.io/badge/%F0%9F%90%B3%20DOCKER%20HUB-pull%20the%20image-34527A?style=for-the-badge)](https://REPLACE-WITH-YOUR-DOCKER-HUB-LINK)
 
 </div>
