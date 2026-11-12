@@ -18,7 +18,7 @@
      DEMO LINKS: replace the two REPLACE-WITH-... URLs below.
      Tip: search this file for "REPLACE-WITH" to find every spot.
      ============================================================ -->
-[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-open%20the%20app-B94E32?style=for-the-badge)](https://REPLACE-WITH-YOUR-LIVE-LINK)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-open%20the%20app-B94E32?style=for-the-badge)](https://aether-rohitjha.streamlit.app/)
 &nbsp;
 [![Docker Hub](https://img.shields.io/badge/%F0%9F%90%B3%20DOCKER%20HUB-pull%20the%20image-34527A?style=for-the-badge)](https://REPLACE-WITH-YOUR-DOCKER-HUB-LINK)
 
@@ -67,7 +67,7 @@ The result is an answer grounded in **your documents** and **fresh sources**, no
 
 | | Link | Notes |
 |---|---|---|
-| 🌐 **Live app** | [REPLACE-WITH-YOUR-LIVE-LINK](https://REPLACE-WITH-YOUR-LIVE-LINK) | Upload a PDF and ask away |
+| 🌐 **Live app** | [Click Here To Open](https://aether-rohitjha.streamlit.app/) | Upload a PDF and ask away |
 | 🐳 **Docker Hub** | [REPLACE-WITH-YOUR-DOCKER-HUB-LINK](https://REPLACE-WITH-YOUR-DOCKER-HUB-LINK) | `docker pull <your-username>/aether:latest` |
 | 🎬 **Test recording** | [`evaluation/manual_testing.mp4`](evaluation/manual_testing.mp4) | 40 s walkthrough of the manual test run |
 
