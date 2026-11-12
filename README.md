@@ -63,15 +63,13 @@ The result is an answer grounded in **your documents** and **fresh sources**, no
 
 <img src="preview/divider.svg" alt="" width="100%">
 
-## Demo links
+## Demo Links
 
-| | Link | Notes |
-|---|---|---|
-| 🌐 **Live app** | <a href="https://aether-rohitjha.streamlit.app/" target="_blank" rel="noopener">Click Here To Open</a> | Upload a PDF and ask away |
-| 🐳 **Docker Hub** | <a href="https://hub.docker.com/r/rohitcoderpy/aether" target="_blank" rel="noopener">rohitcoderpy/aether</a> | `docker pull rohitcoderpy/aether:latest` |
-| 🎬 **Test recording** | [`evaluation/manual_testing.mp4`](evaluation/manual_testing.mp4) | 40 s walkthrough of the manual test run |
-
-<!-- The Docker image is on Docker Hub: rohitcoderpy/aether. The run command in "Quick start" uses it directly. -->
+| | Link |
+|---|---|
+| 🌐 **Live App** | <a href="https://aether-rohitjha.streamlit.app/" target="_blank" rel="noopener">Click Here To Open</a> |
+| 🐳 **Docker Hub** | <a href="https://hub.docker.com/r/rohitcoderpy/aether" target="_blank" rel="noopener">Click Here To Open</a> |
+| 🎬 **Test Recording** | [evaluation/manual_testing.mp4](evaluation/manual_testing.mp4) |
 
 <img src="preview/divider.svg" alt="" width="100%">
 
